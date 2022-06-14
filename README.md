@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![Example 3](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-3.png)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming )
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed)
