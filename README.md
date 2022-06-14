@@ -1,12 +1,10 @@
 ### Hi there 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming )
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed)
 
 <h2> About WaceraMercy⚡:</h2>
 
 A student at AkiraChix-codeHive2022 program doing Information Technology. She loves learning different languages like Kotlin and python to solve current problems, here is her link to her twitter account https://twitter.com/MercyWacera4 .
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed)
-
 
 <h2>📫 How to reach me:</h2>
 
