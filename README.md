@@ -9,13 +9,7 @@
 - 🌱 *I’m currently learning Kaltin, Design and how to develop a strong online presence*
 
 - 📫 *Look me up @*
-    
-    [![Twitter Badge](https://twitter.com/MercyWacera4?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MercyWacera4)][twitter]
-    [![Linkedin Badge](https://www.linkedin.com/in/mercy-wacera-206671233?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-    [![Website](https:/)][website]
-    
-
-    
+   
 <!-- - 😄 Pronouns: ... -->
 
 <!-- - 🥅 My 2020 goal is to at least publish 50 blogs visit my blog at [pratikjagrut.dev]() -->
