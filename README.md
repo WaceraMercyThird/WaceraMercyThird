@@ -8,7 +8,6 @@
 
 - 🌱 *I’m currently learning Kaltin, Design and how to develop a strong online presence*
 
-- 📫 *Look me up @*
    
 <!-- - 😄 Pronouns: ... -->
 
