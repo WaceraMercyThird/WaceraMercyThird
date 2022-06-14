@@ -4,7 +4,11 @@ I am Mercy Wacera, a student at AkiraChix-codeHive2022 program doing Information
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed)
 
+Where to find me:
+
 <a href="mailto:waceraaamercy@gmail.com">![waceraaamercy@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<[LinkedInURL](https://www.linkedin.com/in/mercy-wacera-206671233)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 
 
