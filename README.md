@@ -5,4 +5,5 @@ I am Mercy Wacera, a student at AkiraChix-codeHive2022 program doing Information
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed)
 [
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
