@@ -7,7 +7,7 @@
 
 <h2> About Mercy Wacera⚡:</h2>
 
-A student at AkiraChix-codeHive2022 program doing Information Technology. She loves learning different languages like Kotlin and python to solve current problems, here is her link to her twitter account https://twitter.com/MercyWacera4 .
+I am a student at AkiraChix-codeHive2022 program doing Information Technology. I loves learning different languages like Kotlin and python to solve current problems, here is My link to My twitter account https://twitter.com/MercyWacera4 .
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&hide=contribs)
 
