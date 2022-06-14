@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!-- 
 - ⚡ I build stuff, and I break stuff
 
 - 🔭 *I’m currently working on various opensource projects*
@@ -24,16 +24,16 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 <!-- - 🤔 I’m looking for help with ... -->
-
+<!-- 
 ### Languages and Tools I use:
 
 [<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="30" height="30"/>][Python]&ensp;
 [<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="Bash" width="30" height="30"/>][Bash]&ensp;
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>][Git]&ensp;
 [<img src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" alt="HUGO" width="70" height="30"/>][Hugo]&ensp;
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/>][VScode]&ensp;
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/>][VScode]&ensp; -->
 <!--  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="30" height="30"/>&ensp; -->
-
+ -->
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed) <br/>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming )
