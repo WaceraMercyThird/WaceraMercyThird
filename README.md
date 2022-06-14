@@ -2,7 +2,6 @@
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed)
-
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming )
 
 
