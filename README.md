@@ -18,7 +18,8 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed) <br/>
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed) 
+<br/>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming)
 
 
