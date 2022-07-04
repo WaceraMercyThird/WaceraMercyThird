@@ -10,7 +10,7 @@
  <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
-<h2>:woman_technologist: About me</h2>
+<h2>:woman_technologist: 📫 About Mercy Wacera⚡</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her; Country: Brazil; Age: 20; Spoken Languages: Portuguese, English, Spanish; New Year Goals: Sharpen my skills in Programming, learning French, get a job; My Favorites: Rock Band: Pink Floyd; Metal Band: Blind Guardian; Movies: The Matrix; Anime: Attack on Titan; Books: The Hitchhiker's Guide to the Galaxy; TV Series: Black Mirror and Sherlock." src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
 
 <h2>:busts_in_silhouette: How to reach me</h2>
@@ -59,10 +59,7 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&hide=contribs)
 
 
-<h2>📫 How to reach me:</h2>
 
-<a href="mailto:waceraaamercy@gmail.com">![waceraaamercy@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/mercy-wacera-206671233/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-[<a href= "https://twitter.com/MercyWacera4">![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MercyWacera4.svg?style=social&label=Follow%20%40MercyWacera4)](https://twitter.com/MercyWacera4)
 
 
 
