@@ -29,7 +29,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
-<img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercy.png">
+<img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
 
 I am a student at AkiraChix-codeHive2022 program doing Information Technology. I loves learning different languages like Kotlin and python to solve current problems, here is My link to My twitter account https://twitter.com/MercyWacera4 .
 
