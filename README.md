@@ -6,8 +6,8 @@
 </div>
 
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:kenya: Kenyan</a></td></tr>
+ <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:kenya: Kenyan</a></td></tr>
 </table>
 ### Hi there 👋
 
