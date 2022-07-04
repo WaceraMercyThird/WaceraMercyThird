@@ -46,23 +46,20 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
     <img alt="link to my LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:waceraaamercy@gmail.com">
-    <img alt="Link to my Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<!-- <a href="">
+    <img alt="Link to my Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a> -->
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed) 
 <br/>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming)
 
-<a href="https://t.me/carol_helo">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
-</a>
-<a href="https://www.instagram.com/carol_helloo/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@carol_helloo&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
-</a>
-<a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
-</a>
+
+
+
 </br>
 
 
