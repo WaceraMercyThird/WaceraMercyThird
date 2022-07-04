@@ -2,7 +2,7 @@
 
 - ⚡ I build stuff, and I break stuff
 
-- 🔭 *I’m currently working on various opensource projects*
+//- 🔭 *I’m currently working on various opensource projects*
 
 - ❤️ *I love Linux*
 
