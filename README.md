@@ -48,9 +48,6 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 <a href="mailto:waceraaamercy@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<!-- <a href="">
-    <img alt="Link to my Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> -->
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed) 
