@@ -33,7 +33,7 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:waceraaamercy@gmail.com">![waceraaamercy@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/mercy-wacera-206671233/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/MercyWacera4">![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[<a href= "https://twitter.com/MercyWacera4">![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
 
 
 
