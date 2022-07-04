@@ -49,7 +49,7 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
     <img alt="link to send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
+<h2>:thought_balloon: Quote of the day</h2>
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed) 
 <br/>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming)
