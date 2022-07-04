@@ -78,13 +78,8 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming)
 
 
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
-<details>
-<summary>Achievements</summary>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7">
-</a>
-</details>
 
 
 
