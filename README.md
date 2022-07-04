@@ -17,9 +17,6 @@
 <a href="https://github.com/WaceraMercyThird">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/WaceraMercyThird?style=social&label=@WaceraMercyThird">
 </a>
-<a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
-</a>
 <a href="https://twitter.com/MercyWacera4">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/MercyWacera4.svg?style=social&label=Follow%20%40MercyWacera4">
 </a>
