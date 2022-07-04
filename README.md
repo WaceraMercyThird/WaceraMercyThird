@@ -36,7 +36,7 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&hide=contribs)
 
 <h2>:busts_in_silhouette: How to reach me 📫</h2>
-<a href="https://github.com/WaceraMercyThird">
+<a href="https://github.com/WaceraMercyThird?tab=repositories">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/WaceraMercyThird?style=social&label=@WaceraMercyThird">
 </a>
 <a href="https://twitter.com/MercyWacera4">
