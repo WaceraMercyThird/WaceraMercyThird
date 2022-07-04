@@ -75,7 +75,7 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed) 
 <br/>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming)
+<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming) -->
 
 
 
