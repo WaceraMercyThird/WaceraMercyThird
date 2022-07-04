@@ -14,11 +14,8 @@
 <img width="70%" alt="Hello world! Pronouns: she/her; Country: Brazil; Age: 20; Spoken Languages: Portuguese, English, Spanish; New Year Goals: Sharpen my skills in Programming, learning French, get a job; My Favorites: Rock Band: Pink Floyd; Metal Band: Blind Guardian; Movies: The Matrix; Anime: Attack on Titan; Books: The Hitchhiker's Guide to the Galaxy; TV Series: Black Mirror and Sherlock." src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="mailto:waceraaamercy@gmail.com">
-    ![waceraaamercy@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
 <a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/WaceraMercyThird?style=social&label=@WaceraMercyThird">
 </a>
 <a href="https://codepen.io/Carol42">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
