@@ -29,7 +29,7 @@
 <!-- - 🤔 I’m looking for help with ... -->
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
-<img width="70%" alt="Hello world! Pronouns: she/her; Country: Brazil; Age: 20; Spoken Languages: Portuguese, English, Spanish; New Year Goals: Sharpen my skills in Programming, learning French, get a job; My Favorites: Rock Band: Pink Floyd; Metal Band: Blind Guardian; Movies: The Matrix; Anime: Attack on Titan; Books: The Hitchhiker's Guide to the Galaxy; TV Series: Black Mirror and Sherlock." src="https://github.com/Carol42/Carol42/blob/main/assets/about-me.png">
+<img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="[https://github.com/Carol42/Carol42/blob/main/assets/about-me.png](https://github.com/WaceraMercyThird/Statement.git)">
 
 I am a student at AkiraChix-codeHive2022 program doing Information Technology. I loves learning different languages like Kotlin and python to solve current problems, here is My link to My twitter account https://twitter.com/MercyWacera4 .
 
