@@ -78,10 +78,9 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming)
 
 
-<!-- <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg"> -->
+<img alt="github contribution snake animation" src="./profile-3d-contrib/profile-green-animate.svg">
 ## My Contribution snake
-![Contribution snake example](https://github.com/<WaceraMercyThird>/<WaceraMercyThird>/blob/output/github-contribution-grid-snake.svg)
-
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 
 
