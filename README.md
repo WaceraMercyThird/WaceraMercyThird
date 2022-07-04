@@ -20,11 +20,11 @@
 <a href="https://codepen.io/Carol42">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
 </a>
-<a href="https://twitter.com/carol_heloo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
+<a href="https://twitter.com/MercyWacera4">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/MercyWacera4.svg?style=social&label=Follow%20%40MercyWacera4">
 </a>
-<a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=flat&logo=linkedin" />
+<a href="https://www.linkedin.com/in/mercy-wacera-206671233/">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ### Hi there 👋
