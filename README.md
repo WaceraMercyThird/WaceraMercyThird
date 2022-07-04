@@ -2,12 +2,12 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Information+Technology+Student;Kenyan+Software+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Information Technology Student, Kenyan sotfware developer, Web programmer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Mercy Wacera;Information+Technology+Student;Kenyan+Software+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Information Technology Student,Sotfware developer, Web programmer"></a>
 </div>
 
 <table align="right">
  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README-pt-br.md">:Kenyan: Swahili</a></td></tr>
+ <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README-pt-br.md">:Kenya: Swahili</a></td></tr>
 </table>
 
 <h2>:woman_technologist: About me</h2>
