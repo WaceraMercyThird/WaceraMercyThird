@@ -50,6 +50,7 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 </a>
 
 <h2>:thought_balloon: Quote of the day</h2>
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed) 
 <br/>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming)
