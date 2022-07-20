@@ -54,7 +54,6 @@ I am a student at AkiraChix-codeHive2022 program doing Information Technology. I
 <code><img title="Ubuntu" alt="ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img title="Figma" alt="figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" /></code>
 <code><img title="Intellij" alt="intellij" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" /></code>
-<code><img title="Grepper" alt="grepper" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grepper/grepper-plain.svg" /></code>
 
 </br></br>
 
