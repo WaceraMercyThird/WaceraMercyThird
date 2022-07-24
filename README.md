@@ -13,11 +13,11 @@ Hi there 👋
 
 - ⚡ I build stuff, and I break stuff
 
-- 🔭 *I’m currently working on personal projects like *
+- 🔭 I’m currently working on personal projects
 
-- ❤️ *I love Linux*
+- ❤️ I love Linux
 
-- 🌱 *I’m currently learning Kaltin, Design and how to develop a strong online presence*
+- 🌱 I’m currently learning Koltin, UI/UX Design,Python and how to develop a strong online presence
 
    
 <!-- - 😄 Pronouns: ... -->
