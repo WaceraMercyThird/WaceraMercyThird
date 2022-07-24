@@ -31,7 +31,7 @@ Hi there 👋
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
 
-A student at AkiraChix-codeHive2022 program pursuing Information Technology, currently learning different languages that are likely to solve current problems.
+A student at AkiraChix-codeHive2022 program pursuing Information Technology, currently learning different languages that are likely to solve current problems in different sectors and many aspect of life.
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&hide=contribs)
 
