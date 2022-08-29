@@ -15,7 +15,7 @@ Hi there 👋
 
 - 🔭 I’m currently working on personal projects
 
-- ❤️ I love Linux
+- ❤️ I love Linux, it's an open source OS
 
 - 🌱 I’m currently learning Koltin, UI/UX Design,Python and how to develop a strong online presence
 
