@@ -11,22 +11,14 @@
 </table>
 Hi there 👋
 
-- ⚡ I build stuff, and I break stuff
+- ⚡ I build stuff, and I break stuff.
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently working on personal projects.
 
-- ❤️ I love Linux, it's an open source OS
+- ❤️ I love Linux, it's an open source Operating System.
 
-- 🌱 I’m currently learning Koltin, UI/UX Design,Python and how to develop a strong online presence
+- 🌱 I’m currently learning how to use C# in front-end and how to develop a strong online presence
 
-   
-<!-- - 😄 Pronouns: ... -->
-
-<!-- - 🥅 My 2020 goal is to at least publish 50 blogs visit my blog at [pratikjagrut.dev]() -->
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-
-<!-- - 🤔 I’m looking for help with ... -->
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
