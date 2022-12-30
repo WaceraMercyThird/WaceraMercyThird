@@ -33,6 +33,8 @@ An entry-level Software Developer with a Diploma in Information Technology, curr
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="Kotlin" alt="kotlin" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></code>
+<code><img title="Csharp" alt="csharp" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
+
 </br></br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
