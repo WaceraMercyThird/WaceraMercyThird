@@ -52,7 +52,7 @@ An entry-level Software Developer with a Diploma in Information Technology, curr
 <code><img title="Intellij" alt="intellij" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" /></code>
 <code><img title="Angularjs" alt="angularjs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></code>
 <code><img title="React" alt="react" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain.svg" /></code>
-<code><img title="Arduino" alt="arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" /></code>
+<code><img title="Arduino" alt="arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg colored" /></code>
 
 </br></br>
 
