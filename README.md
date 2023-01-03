@@ -53,8 +53,6 @@ An entry-level Software Developer with a Diploma in Information Technology, curr
 <code><img title="Angularjs" alt="angularjs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></code>
 <code><img title="Arduino" alt="arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" /></code>
 <code><img title="Dotnetcore" alt="dotnetcore" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" /></code>
-
-
 </br></br>
 
 <h2>:busts_in_silhouette: How to reach me 📫</h2>
