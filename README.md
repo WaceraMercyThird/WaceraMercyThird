@@ -11,19 +11,19 @@
 </table>
 Hi there 👋
 
-- ⚡ I build stuff, and I break stuff.
+- ⚡ I build stuff,break them then build them all over again to understand how they works.
 
-- 🔭 I’m currently working on personal projects.
+- 🔭 Currently working on personal projects.
 
-- ❤️ I love Linux, it's an open source Operating System.
+- ❤️ Love Linux, it's an open source Operating System.
 
-- 🌱 I’m currently learning how to use C# in front-end and how to develop a strong online presence
+- 🌱 Currently learning how to use C# in front-end and how to develop a strong online presence
 
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
 
-An entry-level Software Developer with a Diploma in Information Technology, currently learning different languages that are likely to solve current problems in different sectors and many aspects of life.
+ A Software Developer holding a Diploma in Information Technology. Currently actively dedicated to exploring the potential of .Net technologies to address various challenges across different industries and aspects of daily life.
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&hide=contribs)
 
