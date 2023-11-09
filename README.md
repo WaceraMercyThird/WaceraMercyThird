@@ -17,7 +17,7 @@ Hi there 👋
 
 - ❤️ Love Linux, it's an open source Operating System.
 
-- 🌱 Currently Exploring .Net technologies with C# and utilizing my skill both front-end, Back-end and api services as well as how to develop a strong online presence.
+- 🌱 Currently Exploring .Net technologies with C# and utilizing my skills in both front-end, Back-end and api services as well as how to develop a strong online presence.
 
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
