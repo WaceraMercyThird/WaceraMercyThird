@@ -11,13 +11,13 @@
 </table>
 Hi there 👋
 
-- ⚡ I build stuff,break them then build them all over again to understand how they works.
+- ⚡ I build stuff, break them then build them again to understand how they work.
 
-- 🔭 Currently working on personal projects.
+- 🔭 Currently working on personal projects, Organisation products and mentorship program at AkiraChix.
 
 - ❤️ Love Linux, it's an open source Operating System.
 
-- 🌱 Currently Exploring .Net technologies with C# and utilizing my skills in both front-end, Back-end and api services as well as how to develop a strong online presence.
+- 🌱 Currently Exploring .Net technologies with C# and Golang. Utilizing my skills in both front-end, Back-end and microservices.
 
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
