@@ -15,9 +15,9 @@ Hi there 👋
 
 - 🔭 Currently working on personal projects, Organisation products and mentoring at codeHive- AkiraChix.
 
-- ❤️ Love Linux, Windows, MacOS, Linus is an open source Operating System though.
+- ❤️ Love Linux, Windows and MacOS. Linus is an open source Operating System though.
 
-- 🌱 Currently Exploring .Net technologies with C# as well as Go (programming Language) from Google. Utilizing my skills in both front-end, Back-end and microservices.
+- 🌱 Currently Exploring .Net technologies with C# as well as Go (programming Language) from Google. Utilizing my skills in front-end, Back-end and microservices.
 
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
