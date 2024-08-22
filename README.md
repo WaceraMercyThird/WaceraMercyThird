@@ -23,7 +23,7 @@ Hi there 👋
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
 
- A Software Developer holding a Diploma in Information Technology. At the moment, I am actively digging into the world of .Net technologies to harness their potential in addressing various challenges across different industries and aspects of daily life.
+ A Software Engineer holding a Diploma in Information Technology. At the moment, I am actively digging into the world of .Net technologies and Go (programming language) to harness their potential in addressing various challenges across different industries and aspects of our day to day life.
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&hide=contribs)
 
