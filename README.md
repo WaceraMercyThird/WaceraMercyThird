@@ -2,7 +2,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Mercy+Wacera;Software+Dev;Web+Programmer" alt="Information Technology Student, Software developer, Web programmer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Mercy+Wacera;Software+Engineer;Web+Programmer" alt="Information Technology Student, Software developer, Web programmer"></a>
 </div>
 
 <table align="right">
@@ -13,11 +13,11 @@ Hi there 👋
 
 - ⚡ I build stuff, break them then build them again to understand how they work.
 
-- 🔭 Currently working on personal projects, Organisation products and mentorship program at AkiraChix.
+- 🔭 Currently working on personal projects, Organisation products and mentoring at codeHive- AkiraChix.
 
-- ❤️ Love Linux, it's an open source Operating System.
+- ❤️ Love Linux, Windows, MacOS, Linus is an open source Operating System though.
 
-- 🌱 Currently Exploring .Net technologies with C# and Golang. Utilizing my skills in both front-end, Back-end and microservices.
+- 🌱 Currently Exploring .Net technologies with C# as well as Go (programming Language) from Google. Utilizing my skills in both front-end, Back-end and microservices.
 
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
