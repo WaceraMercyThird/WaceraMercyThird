@@ -1,4 +1,14 @@
 <div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/assets/wacera.png"></div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Mercy+Wacera;Software+Engineer;Building+AI-Powered+Platforms;Full-Stack+Development;System+Integration+Engineer" alt="Mercy Wacera | Software Engineer">
+  </a>
+</div>
+
+
+<div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
