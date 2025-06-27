@@ -2,20 +2,21 @@
 
 <!-- Top network banner -->
 <div align="center">
-  <img width="100%" alt="Network-tech banner" src="https://i.imgur.com/yourBannerLink.png">
+  <img width="100%" alt="Tech network header" src="https://i.imgur.com/NETWORK_BANNER.png">
 </div>
 
 <!-- Animated typing intro -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=7E3ACE&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Mercy+Wacera;Software+Engineer;Building+AI-Powered+Platforms;Full-Stack+Development;System+Integration+Engineer" alt="Mercy Wacera | Software Engineer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=7E3ACE&size=30&pause=1000&center=true&vCenter=true&width=500&lines=I'm+Mercy+Wacera;Software+Engineer;Building+AI-Powered+Platforms;Full-Stack+Development;System+Integration+Engineer" alt="Mercy Wacera | Software Engineer">
   </a>
 </div>
 
-<!-- Footer network banner -->
+<!-- Bottom network banner -->
 <div align="center">
-  <img width="100%" alt="Network-tech footer" src="https://i.imgur.com/yourFooterLink.png">
+  <img width="100%" alt="Tech network footer" src="https://i.imgur.com/NETWORK_FOOTER.png">
 </div>
+
 
 
 
