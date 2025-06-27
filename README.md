@@ -111,8 +111,11 @@ I'm a Software Engineer with a Diploma in Information Technology, passionate abo
 <div align="center">
   <img 
     src="https://github.com/WaceraMercyThird/WaceraMercyThird/raw/main/assets/wacera_thanks.png" 
-    alt="Thank You Banner" 
-    style="max-height: 200px; width: auto; object-fit: contain;">
+    alt="Thank you banner" 
+    width="100%" 
+    height="200px" 
+    style="object-fit: cover;">
 </div>
+
 
 
