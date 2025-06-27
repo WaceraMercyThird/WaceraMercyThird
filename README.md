@@ -1,5 +1,12 @@
 
-
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg"></div>
+https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Mercy+Wacera;Software+Engineer;Building+AI-Powered+Platforms;Full-Stack+Development;System+Integration+Engineer" alt="Mercy Wacera | Software Engineer">
+  </a>
+</div>
 
 
 
