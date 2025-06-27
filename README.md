@@ -16,9 +16,9 @@
 
 ⚙️ Passionate about breaking and rebuilding systems to master them  
 
-🌐 Actively exploring **.NET (C#)** and **Go (Golang)**  
+🌐 **Actively learning:** `Next.js`, `Java` 
 
-🧠 Experience with building both **front-end UIs** and **back-end services**  
+🧠 Experienced with building full-stack apps, microservices, and elegant UI solutions  
 
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
