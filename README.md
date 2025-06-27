@@ -1,111 +1,116 @@
-<div id="top"></div>
 <div align="center">
-  <img width="100%" alt="Welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png">
+  <img width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png" alt="Profile Banner">
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Mercy+Wacera;Software+Engineer;Web+Programmer" alt="Profile typing animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=7E3ACE&width=435&lines=Hi+there%2C+I'm+Mercy+Wacera!;Software+Engineer+%7C+Web+Developer;Passionate+about+code+%26+clean+UX" alt="Typing SVG">
   </a>
 </div>
 
-<table align="right">
-  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">🇺🇸 English</a></td></tr>
-  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">🇰🇪 Kenyan</a></td></tr>
-</table>
+---
 
-## 👋 Hi there!
+### 👩‍💻 About Me
 
-- ⚡ I build things, break them, then rebuild to understand how they work.
-- 🔭 Currently working on personal projects, organization products, and mentoring at CodeHive - AkiraChix.
-- ❤️ A fan of Linux, Windows, and macOS. (P.S. Linux is open source 😉)
-- 🌱 Exploring .NET with C# and diving deep into Go (Golang). I also apply my skills across front-end, back-end, and microservices.
+🎓 A dedicated **Software Engineer** with a **Diploma in Information Technology**, passionate about building scalable systems and elegant interfaces.  
+🔧 I love **breaking & rebuilding systems** to deeply understand how they work.  
+📚 Currently exploring **.NET with C#**, and diving into **Go (Golang)** for back-end development.  
+💡 I combine front-end finesse with back-end logic to build full-stack solutions and microservices.  
+🌍 Based in **Kenya**, fluent in **Swahili** and **English**.
 
 ---
 
-## 👩‍💻 About Me
+### 🚀 Tech Stack
 
-<img width="70%" alt="About Mercy Wacera" src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
+#### 👩‍💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="38" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go (Golang)" />
+</p>
 
-I’m a passionate Software Engineer with a Diploma in Information Technology. I'm actively expanding my expertise in .NET and Go to build impactful, scalable solutions for real-world challenges across industries.
+#### 🛠️ Tools & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="40" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" title="AngularJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" width="40" title="Arduino" />
+</p>
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&hide=contribs)
-
----
-
-## 💡 Languages
-
-<code><img title="HTML5" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img title="CSS3" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img title="JavaScript" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img title="Python" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img title="Kotlin" alt="Kotlin" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
-<code><img title="C#" alt="C#" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
-<code><img title="Go" alt="Golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
-
----
-
-## 🛠️ Tools & Technologies I Use
-
-<code><img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img title="GitHub" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img title="GitLab" alt="GitLab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"></code>
-<code><img title="VS Code" alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img title="Visual Studio" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img title="Android Studio" alt="Android Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg"></code>
-<code><img title="Chrome" alt="Chrome" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></code>
-<code><img title="Windows" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
-<code><img title="Linux" alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-<code><img title="Ubuntu" alt="Ubuntu" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
-<code><img title="Figma" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg"></code>
-<code><img title="IntelliJ" alt="IntelliJ" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg"></code>
-<code><img title="AngularJS" alt="AngularJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"></code>
-<code><img title="Arduino" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg"></code>
-<code><img title=".NET" alt=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg"></code>
-<code><img title="Docker" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-<code><img title="Next.js" alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+#### 💻 Environments & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" title="Chrome" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" width="40" title="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" width="40" title="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" width="40" title="Figma" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 📊 GitHub Stats
 
-<a href="https://github.com/WaceraMercyThird?tab=repositories">
-  <img alt="GitHub" src="https://img.shields.io/github/followers/WaceraMercyThird?style=social&label=@WaceraMercyThird">
-</a>
-<a href="https://twitter.com/MercyWacera4">
-  <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/MercyWacera4.svg?style=social&label=Follow%20%40MercyWacera4">
-</a>
-<a href="https://www.linkedin.com/in/mercy-wacera-206671233/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:waceraaamercy@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-## 💬 Quote of the Day
+### 📬 Let's Connect
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Redressed)
+<p>
+  <a href="https://github.com/WaceraMercyThird">
+    <img src="https://img.shields.io/github/followers/WaceraMercyThird?style=social" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mercy-wacera-206671233/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mercy%20Wacera-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:waceraaamercy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-waceraaamercy@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/MercyWacera4">
+    <img src="https://img.shields.io/twitter/follow/MercyWacera4?style=social" alt="Twitter" />
+  </a>
+</p>
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird.Object-Oriented-Programming)
+### 🌟 Quote of the Day
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&font=Redressed&center=true" alt="Quote of the Day" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WaceraMercyThird" alt="Visitor Count" />
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="Thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!" alt="Thanks for visiting!" />
   </a>
 </div>
 
 <p align="right">
   <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=7E3ACE&style=flat&logo" alt="Back to top">
+    <img src="https://img.shields.io/static/v1?label=&message=Back+to+Top&color=7E3ACE&style=flat" alt="Back to top">
   </a>
 </p>
 
 <div align="center">
-  <img width="100%" alt="" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png">
+  <img width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png" alt="Footer Banner">
 </div>
