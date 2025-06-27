@@ -1,11 +1,3 @@
-
-<div align="center">
-  <img width="100%" height="300px" style="object-fit: cover;" alt="Welcome to my profile!" src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg">
-</div>
-
-
-
-
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
