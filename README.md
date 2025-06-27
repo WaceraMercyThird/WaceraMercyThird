@@ -2,8 +2,12 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Mercy+Wacera;Software+Engineer;Web+Programmer" alt="Information Technology Student, Software developer, Web programmer"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&color=7E3ACE&width=435&lines=Hi+there%2C+I'm+Mercy+Wacera!;Software+Engineer+%7C+Web+Developer;Passionate+about+code+%26+clean+UX" alt="Typing SVG">
+  </a>
 </div>
+
+---
 
 <table align="right">
  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:us: English</a></td></tr>
@@ -14,7 +18,7 @@
 
 🎓 Software Engineer with a Diploma in Information Technology 
 
-⚙️ Passionate about breaking and rebuilding systems to master them  
+⚙️ Passionate about breaking and rebuilding systems to learn how they work  
 
 🌐 **Actively learning:** `Next.js`, `Java` 
 
@@ -23,7 +27,7 @@
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
 
- A Software Engineer holding a Diploma in Information Technology. At the moment, I am actively digging into the world of .Net technologies and Go (programming language) to harness their potential in addressing various challenges across different industries and aspects of our day to day life.
+I'm a Software Engineer with a Diploma in Information Technology, passionate about building innovative, user-focused solutions. Currently,  I'm diving deeper into full-stack development using Next.js, React, and Java to create scalable web applications. I'm also working on AI-powered platforms and system integrations that address real-world challenges across various industries and everyday life.
 
 ## 📊 GitHub Stats
 
