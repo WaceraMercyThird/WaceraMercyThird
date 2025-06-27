@@ -3,22 +3,6 @@
 </div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
-    </a>
-</div>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/assets/wacera_thanks.png
-"></div>
-
-
-
-
-<div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=I'm+Mercy+Wacera;Software+Engineer;Building+AI-Powered+Platforms;Full-Stack+Development;System+Integration+Engineer" alt="Mercy Wacera | Software Engineer">
   </a>
@@ -124,5 +108,5 @@ I'm a Software Engineer with a Diploma in Information Technology, passionate abo
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/assets/wacera_thanks.png"></div>
 
