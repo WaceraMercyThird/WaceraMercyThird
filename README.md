@@ -1,7 +1,12 @@
 <div align="center">
-  <img width="100%" height="300px" style="object-fit: cover;" alt="Welcome to my profile!" src="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/assets/wacera.png">
+  <img width="100%" height="300px" style="object-fit: cover;" alt="Welcome to my profile!" src="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/assets/wacera_intro.png">
 </div>
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
 
 
 <div id="top"></div>
