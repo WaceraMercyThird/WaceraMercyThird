@@ -9,9 +9,8 @@
  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:kenya: Kenyan</a></td></tr>
 </table>
-Hi there 👋
 
-## 👩‍💻 About Me
+## Hi there 👋
 
 🎓 Software Engineer with a Diploma in Information Technology 
 
@@ -26,8 +25,13 @@ Hi there 👋
 
  A Software Engineer holding a Diploma in Information Technology. At the moment, I am actively digging into the world of .Net technologies and Go (programming language) to harness their potential in addressing various challenges across different industries and aspects of our day to day life.
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&hide=contribs)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaceraMercyThird&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
 
 ## 🧰 Tech Stack
 
