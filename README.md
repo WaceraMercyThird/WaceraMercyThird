@@ -109,6 +109,10 @@ I'm a Software Engineer with a Diploma in Information Technology, passionate abo
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center">
-  <img alt="" width="100%" src="https://github.com/WaceraMercyThird/WaceraMercyThird/raw/main/assets/wacera_thanks.png">
+  <img 
+    src="https://github.com/WaceraMercyThird/WaceraMercyThird/raw/main/assets/wacera_thanks.png" 
+    alt="Thank You Banner" 
+    style="max-height: 200px; width: auto; object-fit: contain;">
 </div>
+
 
