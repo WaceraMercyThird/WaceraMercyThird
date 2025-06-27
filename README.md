@@ -3,9 +3,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Hi+I'm+Mercy+Wacera;Software+Engineer+%7C+Tech+Builder;Crafting+AI-Driven+Platforms;Full-Stack+with+Next.js+%7C+React+%7C+Java;Systems+Integration+Specialist" alt="Mercy Wacera | Software Engineer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Mercy+Wacera;Software+Engineer;Building+AI-Powered+Platforms;Full-Stack+Development;System+Integration+Engineer" alt="Mercy Wacera | Software Engineer">
   </a>
 </div>
+
 
 
 <table align="right">
