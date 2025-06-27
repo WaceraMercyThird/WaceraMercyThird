@@ -17,7 +17,7 @@
 
 ## Hi there 👋
 
-🎓 Software Engineer with a Diploma in Information Technology 
+🎓 I'm a Software Engineer with a Diploma in Information Technology 
 
 ⚙️ Passionate about breaking and rebuilding systems to learn how they work  
 
