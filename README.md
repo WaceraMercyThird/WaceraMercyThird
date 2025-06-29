@@ -2,20 +2,13 @@
   <img width="100%" height="300px" style="object-fit: cover;" alt="Welcome to my profile!" src="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/assets/wacera_intro.png">
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif" alt="Mercy Wacera | Software Engineer">
-  </a>
-</div>
-
-
 
 <table align="right">
  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:kenya: Kenyan</a></td></tr>
 </table>
  <div>
- <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="300px" alt="A professional animation coder gif"/>
+ <img align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif" width="300px" alt="A professional animation coder gif"/>
 
   </div>
 
