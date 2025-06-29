@@ -29,6 +29,9 @@
 
 🧠 Experienced with building full-stack apps, microservices, and elegant UI solutions  
 
+
+
+
 <h2>:woman_technologist: About Mercy Wacera⚡</h2>
 <img width="70%" alt="Hello world! Pronouns: she/her/hers; Country: Kenya; Spoken Languages: Swahili, English; New Year Goals: Enhance my skills in Programming, learning how to navigate in the tech space, get a job; Books: Learn Python the hard way, The originals." src="https://github.com/WaceraMercyThird/Statement/blob/main/WaceraMercyThird.png">
 
@@ -41,19 +44,6 @@ I'm a Software Engineer with a Diploma in Information Technology, passionate abo
 </p>
 
 ---
-## 🧰 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" width="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Golang" width="40"/>
-</p>
 
 ## 🛠️ Tech Stack & Tools
 
