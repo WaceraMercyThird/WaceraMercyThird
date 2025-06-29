@@ -37,33 +37,31 @@ I'm a Software Engineer with a Diploma in Information Technology, passionate abo
 </p>
 
 ---
-
 ## 🧰 Tech Stack
 
-### 🧪 Languages
+### 💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" width="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Golang" width="40"/>
 </p>
 
+### 🛠️ Tools & Platforms
+![Static Badge](https://img.shields.io/badge/Next.js-Fullstack-black?logo=next.js)
+![Static Badge](https://img.shields.io/badge/React-Frontend-blue?logo=react)
+![Static Badge](https://img.shields.io/badge/Docker-Containers-lightblue?logo=docker)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Static Badge](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)
+![Static Badge](https://img.shields.io/badge/GitHub-Code-gray?logo=github)
+![Static Badge](https://img.shields.io/badge/Linux-Environment-black?logo=linux)
+![Static Badge](https://img.shields.io/badge/Figma-Design-ff69b4?logo=figma)
+![Static Badge](https://img.shields.io/badge/VSCode-Editor-007ACC?logo=visualstudiocode)
 
-### 🛠️ Frameworks & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" title=".NET" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" title="AngularJS" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" title="Arduino" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" title="Figma" width="40"/>
-</p>
 
 ### 🖥️ Operating Systems & IDEs
 <p>
