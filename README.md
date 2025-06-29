@@ -14,6 +14,10 @@
  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/WaceraMercyThird/WaceraMercyThird/blob/main/README.md">:kenya: Kenyan</a></td></tr>
 </table>
+ <div>
+ <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="300px" alt="A professional animation coder gif"/>
+
+  </div>
 
 ## Hi there 👋
 
@@ -51,31 +55,50 @@ I'm a Software Engineer with a Diploma in Information Technology, passionate abo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Golang" width="40"/>
 </p>
 
-### 🛠️ Tools & Platforms
-![Static Badge](https://img.shields.io/badge/Next.js-Fullstack-black?logo=next.js)
-![Static Badge](https://img.shields.io/badge/React-Frontend-blue?logo=react)
-![Static Badge](https://img.shields.io/badge/Docker-Containers-lightblue?logo=docker)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
-![Static Badge](https://img.shields.io/badge/Git-Version_Control-orange?logo=git)
-![Static Badge](https://img.shields.io/badge/GitHub-Code-gray?logo=github)
-![Static Badge](https://img.shields.io/badge/Linux-Environment-black?logo=linux)
-![Static Badge](https://img.shields.io/badge/Figma-Design-ff69b4?logo=figma)
-![Static Badge](https://img.shields.io/badge/VSCode-Editor-007ACC?logo=visualstudiocode)
+## 🛠️ Tech Stack & Tools
 
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+### 🧰 Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/WebAPI-007ACC?style=flat)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### ⚙️ DevOps & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-ff69b4?style=flat&logo=figma)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ### 🖥️ Operating Systems & IDEs
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="Chrome" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" title="Android Studio" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" title="IntelliJ IDEA" width="40"/>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
----
 
 <h2>:busts_in_silhouette: How to reach me 📫</h2>
 <a href="https://github.com/WaceraMercyThird?tab=repositories">
