@@ -52,7 +52,7 @@ I'm a Software Engineer with a Diploma in Information Technology, passionate abo
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET/](https://img.shields.io/badge/ASP.NET%2F-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%2F-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Web API](https://img.shields.io/badge/WebAPI-007ACC?style=flat)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 
